@@ -1,0 +1,24 @@
+{
+  "name": "safar",
+  "version": "1.0.0",
+  "description": "Travel Blog Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Image",
+    "Experience",
+    "Expense",
+    "Rating"
+  ],
+  "author": "Jayesh Rathore",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodeman": "^1.1.2"
+  }
+}
